@@ -1,5 +1,5 @@
-local script1URL = "https://raw.githubusercontent.com/seuusuario/repositorio/refs/heads/main/script1.lua"
-local script2URL = "https://raw.githubusercontent.com/seuusuario/repositorio/refs/heads/main/script2.lua"
+local script1URL = "https://raw.githubusercontent.com/foltzbr/bkegay/refs/heads/main/script1.lua"
+local script2URL = "https://raw.githubusercontent.com/foltzbr/bkegay/refs/heads/main/script2.lua"
 
 print(":rocket: Executando Script 2...")
 
